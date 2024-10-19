@@ -1,0 +1,10 @@
+{
+    "var_5ee3f5bd": "mp_cartel",
+    "defaultgametype": "tdm",
+    "abbreviation": "mp",
+    "name": "sessionmode_mp",
+    "selectdescription": "#hash_3c258636dc6383e7",
+    "displayname": "#menu/multiplayer",
+    "defaultmap": "mp_moscow",
+    "var_fba50b79": "control_cwl"
+}

@@ -1,0 +1,21 @@
+{
+    "hasmigration": 1,
+    "id": 24,
+    "backtarget": "director_online_pregame",
+    "maxlocalclientsnetwork": 1,
+    "isprivate": 1,
+    "lobbytype": 1,
+    "menumusic": "lobby_zm",
+    "room": "#private_lobby_pose",
+    "var_7f60c82f": 4,
+    "kicker": "#hash_28b948aec9e397b",
+    "maxclients": 4,
+    "name": "director_online_private",
+    "networkmode": 2,
+    "errtarget": "director_online_pregame",
+    "var_ec76767d": 1,
+    "title": "#hash_28b948aec9e397b",
+    "var_f68d7d0": 2,
+    "isgame": 1,
+    "maxlocalclients": 2
+}

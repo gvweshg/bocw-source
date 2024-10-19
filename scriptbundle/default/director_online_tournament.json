@@ -1,0 +1,19 @@
+{
+    "lobbymode": 5,
+    "id": 26,
+    "backtarget": "director_online_pregame",
+    "maxlocalclientsnetwork": 1,
+    "mainmode": 1,
+    "isprivate": 1,
+    "menumusic": "lobby_mp",
+    "room": "#lobby_pose",
+    "var_7f60c82f": 4,
+    "kicker": "#hash_69818a6a90daf973",
+    "maxclients": 4,
+    "name": "director_online_tournament",
+    "networkmode": 2,
+    "errtarget": "director_online_pregame",
+    "egamemodes": 2,
+    "title": "#menu/multiplayer",
+    "maxlocalclients": 1
+}

@@ -1,0 +1,20 @@
+{
+    "hasmigration": 1,
+    "lobbymode": -1,
+    "id": 20,
+    "backtarget": "main",
+    "maxlocalclientsnetwork": 1,
+    "mainmode": 4,
+    "var_d16ccae8": 1,
+    "isprivate": 1,
+    "menumusic": "titlescreen",
+    "room": "#mode_select",
+    "var_7f60c82f": 4,
+    "maxclients": 6,
+    "name": "director_online",
+    "networkmode": 2,
+    "errtarget": "director_online",
+    "egamemodes": 2,
+    "var_f68d7d0": 2,
+    "maxlocalclients": 2
+}

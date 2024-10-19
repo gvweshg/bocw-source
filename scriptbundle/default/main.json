@@ -1,0 +1,14 @@
+{
+    "lobbymode": -1,
+    "id": 1,
+    "maxlocalclientsnetwork": 2,
+    "mainmode": 4,
+    "lobbytype": -1,
+    "menumusic": "titlescreen",
+    "room": "#room1",
+    "name": "main",
+    "networkmode": -1,
+    "errtarget": "main",
+    "egamemodes": 2,
+    "maxlocalclients": 1
+}

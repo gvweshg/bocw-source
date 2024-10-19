@@ -1,0 +1,17 @@
+{
+    "lobbymode": -1,
+    "id": 10,
+    "backtarget": "main",
+    "maxlocalclientsnetwork": 2,
+    "mainmode": 4,
+    "var_d16ccae8": 1,
+    "isprivate": 1,
+    "menumusic": "titlescreen",
+    "room": "#auto",
+    "maxclients": 6,
+    "name": "director_lan",
+    "networkmode": 1,
+    "errtarget": "director_lan",
+    "egamemodes": 1,
+    "maxlocalclients": 1
+}

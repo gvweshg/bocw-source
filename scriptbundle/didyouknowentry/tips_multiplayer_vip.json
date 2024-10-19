@@ -1,0 +1,52 @@
+{
+    "tips": [
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_27dec6b7783c725d",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        },
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_34153318340c9ddb",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        },
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_308cbcaa3d22224e",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        },
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_398cff445c86acde",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        },
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_b4970338edfe295",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        },
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_5dcf0db7edd62599",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        },
+        {
+            "var_9e589ff4": 1,
+            "tip": "#hash_2f4e014d833dc4c3",
+            "var_81294378": "#==",
+            "var_88ff5fc3": "#none"
+        }
+    ],
+    "var_922067c4": "SCRIPTBUNDLE",
+    "type": "didyouknowentry",
+    "var_9e589ff4": 1,
+    "name": "tips_multiplayer_vip",
+    "var_81294378": "#==",
+    "var_88ff5fc3": "#none"
+}

@@ -1,0 +1,17 @@
+{
+    "defenderarchetype": "none",
+    "attackerrightanim": "#pb_knife_stand_assassination_right",
+    "attackerarchetype": "none",
+    "var_922067c4": "scriptbundle",
+    "attackerfrontanim": "#pb_knife_stand_a_melee_counter_fail",
+    "attackerbackanim": "#pb_rifle_stand_assassination_back_v1",
+    "victimfrontanim": "#ai_base_rifle_stn_assassination_counter_front",
+    "type": "aiassassination",
+    "defendervariant": "regular",
+    "attackervariant": "regular",
+    "name": "aiassassination_human",
+    "attackerleftanim": "#pb_knife_stand_assassination_left",
+    "victimbackanim": "#ai_base_rifle_stn_assassination_death_back_v1",
+    "victimrightanim": "#ai_base_rifle_stn_assassination_death_right",
+    "victimleftanim": "#ai_base_rifle_stn_assassination_death_left"
+}

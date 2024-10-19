@@ -1,0 +1,22 @@
+{
+    "hasmigration": 1,
+    "id": 22,
+    "backtarget": "director_online_pregame",
+    "maxlocalclientsnetwork": 1,
+    "mainmode": 4,
+    "isprivate": 1,
+    "lobbytype": 1,
+    "menumusic": "lobby_mp",
+    "room": "#lobby_pose",
+    "var_7f60c82f": 10,
+    "kicker": "#hash_69818a6a90daf973",
+    "isadvertised": 1,
+    "maxclients": 10,
+    "name": "director_online_public",
+    "networkmode": 2,
+    "errtarget": "director_online_pregame",
+    "var_ec76767d": 1,
+    "title": "#menu/multiplayer",
+    "isgame": 1,
+    "maxlocalclients": 2
+}

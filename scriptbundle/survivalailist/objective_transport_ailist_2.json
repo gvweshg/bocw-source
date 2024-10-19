@@ -1,0 +1,21 @@
+{
+    "var_210a8489": [
+        {
+            "entryname": "survival_ai_zombie",
+            "var_a949845f": -1,
+            "var_857deb66": 90
+        },
+        {
+            "entryname": "survival_ai_mimic",
+            "var_a949845f": -1,
+            "var_857deb66": 5
+        },
+        {
+            "entryname": "survival_ai_raz",
+            "var_857deb66": 5
+        }
+    ],
+    "var_922067c4": "scriptbundle",
+    "type": "survivalailist",
+    "name": "objective_transport_ailist_2"
+}

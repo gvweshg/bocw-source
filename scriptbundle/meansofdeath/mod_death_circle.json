@@ -1,0 +1,9 @@
+{
+    "mod": "MOD_DEATH_CIRCLE",
+    "var_922067c4": "scriptbundle",
+    "type": "meansofdeath",
+    "name": "mod_death_circle",
+    "displayname": "#hash_1525cc239faaec26",
+    "icon": "#ui_icon_meansofdeath_death_circle",
+    "iconlarge": "#ui_icon_meansofdeath_death_circle_xl"
+}
